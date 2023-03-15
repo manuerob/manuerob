@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a software engineer with a Master's Degree in Computer Engineering. 
-
-I'm experienced in online game programming, cloud infrastructure, DevOps and game development.
+- 🌱 I’m interested in multimedia technologies, online programming and exploring the blockhain world
+- 🌍 I live in Montreal, Canada
+- 👨🏽‍🎓 My studies:
+	- Master's in Computer Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
+	- Bachelor in Software Engineering [@Polytechnique Montréal](https://www.polymtl.ca/)
 
 <!--
 **manuerob/manuerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
