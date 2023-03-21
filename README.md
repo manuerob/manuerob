@@ -44,6 +44,19 @@ Here are some ideas to get you started:
   <img alt="azuredevops" src="https://img.shields.io/badge/-Azure DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+<h3> Currently working on ⚡</h3> 
+
+
+  
+<table>
+  <tbody>
+	<tr>
+      <td><a href="https://github.com/manuerob/react-stacks-app"><b>react-stacks-app</b></a></td>
+      <td><img alt="React-Stacks-App" src="https://user-images.githubusercontent.com/44233858/226531888-ffe3ac27-0ee5-43a8-8f02-4702a078c504.png" width="50%"/></td>
+    </tr>
+  </tbody>
+</table>
   
 <h3> Cool projects I participated in ⚡</h3> 
   
