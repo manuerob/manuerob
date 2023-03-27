@@ -51,15 +51,15 @@ Here are some ideas to get you started:
   
 <table>
   <tbody>
-	<tr>
-      <td><a href="https://github.com/manuerob/react-stacks-app"><b>react-stacks-app</b></a></td>
-      <td><img alt="React-Stacks-App" src="https://user-images.githubusercontent.com/44233858/226531888-ffe3ac27-0ee5-43a8-8f02-4702a078c504.png" width="50%"/></td>
+    <tr>
+      <td><a href="https://github.com/manuerob/react-blockchain-app"</a><b>react-blockchain-app</b></td>
+      <td width="50%"><a href="https://d3iswxkco8k5l6.cloudfront.net"><img src="https://user-images.githubusercontent.com/44233858/227983215-7de9b0c1-5c0b-4c33-bc9f-215ab0325e69.png" alt="react-blockchain-app"></a></td>
     </tr>
   </tbody>
 </table>
   
 <h3> Cool projects I participated in ⚡</h3> 
-  
+
 <table>
   <thead align="center">
     <tr border: none;>
